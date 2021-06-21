@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm shaon, a Digital Media Technology student at the Beijing University of Posts and Telecommunications. I'm currently building the future of Cloud servers as a Frontend Engineer Intern at [Baidu Ai Cloud](https://intl.cloud.baidu.com/) and seeking Winter 2022 internships in Frontend Engineer Intern. I'm always interested to hear about any cool projects you're working on!
+I'm shaon, a Digital Media Technology student at the Beijing University of Posts and Telecommunications.
+
+I'm currently building the future of Cloud servers as a Frontend Engineer Intern at [Baidu Ai Cloud](https://intl.cloud.baidu.com/) and seeking Winter 2022 internships in Frontend Engineer Intern. I'm always interested to hear about any cool projects you're working on!
 
 ### 🔭 Some things I've worked on ...
 
