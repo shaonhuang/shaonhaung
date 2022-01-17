@@ -36,6 +36,8 @@ I'm currently building the future of Cloud servers as a Frontend Engineer Intern
 - [LinkedIn](https://www.linkedin.com/in/yukuaihuang/?locale=en_US)
 - [Personal Website](https://www.digitalcreak.top)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaonhuang&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+
 [![Visits Badge](https://badges.pufler.dev/visits/shaonhuang/shaonhuang)](https://badges.pufler.dev)
 
 Check out my résumé: [English Version](https://github.com/shaonhuang/resume/blob/main/resume.pdf) | [中文简历](https://github.com/shaonhuang/resume/blob/main/resume-zh.pdf)
