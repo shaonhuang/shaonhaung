@@ -30,13 +30,14 @@ I'm currently building the future of Cloud servers as a Frontend Engineer Intern
 - Redux for state management
 - More about data structures and algorithms on Coursera
   -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaonhuang&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
 ### 📫 Find me here: ...
 
 - [LinkedIn](https://www.linkedin.com/in/yukuaihuang/?locale=en_US)
 - [Personal Website](https://www.digitalcreak.top)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaonhuang&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/shaonhuang/shaonhuang)](https://badges.pufler.dev)
 
