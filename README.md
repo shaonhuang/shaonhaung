@@ -21,8 +21,8 @@ I'm currently building the future of Cloud servers as a Frontend Engineer Intern
 
 ### 🔭 Some things I've worked on ...
 
-- [ProteinRecorder](https://www.digitalcreak.top/video?frg=1), a android application helps gym guys calculate their protein daily intake
-- [GeeksforGeeks](https://www.digitalcreak.top/video?frg=3), a sketch with UX for app that programmer buys and takes courses from third-party
+- [ProteinRecorder](https://www.digitalcreak.top/projects?query=1), a android application helps gym guys calculate their protein daily intake
+- [GeeksforGeeks](https://www.digitalcreak.top/projects?query=3), a sketch with UX for app that programmer buys and takes courses from third-party
 <!--
 
 ### 🌱 I’m learning ...
