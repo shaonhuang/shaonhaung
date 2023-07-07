@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm shaon, a Digital Media Technology student at the Beijing University of Posts and Telecommunications.
+I'm Shaon, a Digital Media Technology student at the Beijing University of Posts and Telecommunications.
 
-I'm currently building the future of Cloud servers as a Frontend Engineer Intern at [Baidu Ai Cloud](https://intl.cloud.baidu.com/) and seeking Winter 2022 internships in Frontend Engineer Intern. I'm always interested to hear about any cool projects you're working on!
+I was building the future of Cloud servers as a Frontend Engineer Intern at [Baidu Ai Cloud](https://intl.cloud.baidu.com/) and now I'm seeking a job in Full-stack development as a freelancer. I'm always interested to hear about any cool projects you're working on!
 
 ### 🔭 Some things I've worked on ...
 
-- [ProteinRecorder](https://www.digitalcreak.top/projects?query=1), a android application helps gym guys calculate their protein daily intake
-- [GeeksforGeeks](https://www.digitalcreak.top/projects?query=3), a sketch with UX for app that programmer buys and takes courses from third-party
+- [V2rayX](https://github.com/shaonhuang/V2rayX) An all-platform (macOS Windows Linux) V2ray client build with electron
+- [ProteinRecorder](https://resume-shaonhuang.oss-us-west-1.aliyuncs.com/proteinrecorder2.mp4), an android application that helps gym guys calculate their daily protein intake
+- [GeeksforGeeks](https://resume-shaonhuang.oss-us-west-1.aliyuncs.com/geek_demo.mp4), a sketch with UX for an app that a programmer buys and takes courses from third-party
 <!--
 
 ### 🌱 I’m learning ...
@@ -35,7 +36,7 @@ I'm currently building the future of Cloud servers as a Frontend Engineer Intern
 ### 📫 Find me here: ...
 
 - [LinkedIn](https://www.linkedin.com/in/yukuaihuang/?locale=en_US)
-- [Personal Website](https://www.digitalcreak.top)
+- [Personal Website](https://shaonhuang.github.io/)
 
 
 
