@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shaon, a Digital Media Technology student at the Beijing University of Posts and Telecommunications.
+I'm Shaon, a Digital Media Technology graduate at the Beijing University of Posts and Telecommunications.
 
 I was building the future of Cloud servers as a Frontend Engineer Intern at [Baidu Ai Cloud](https://intl.cloud.baidu.com/) and now I'm seeking a job in Full-stack development as a freelancer. I'm always interested to hear about any cool projects you're working on!
 
